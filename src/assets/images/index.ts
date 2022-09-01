@@ -1,0 +1,9 @@
+export { default as ImageOne } from "./asus-rog-strix-go-2-4.jpg";
+export { default as ImageTwo } from "./audeze-penrose.jpg";
+export { default as ImageThree } from "./bang-olufsen-beoplay-portal.jpg";
+export { default as ImageFour } from "./corsair-virtuoso-rgb-wireless.jpg";
+export { default as ImageFive } from "./corsair-virtuoso-rgb-wireless-se.jpg";
+export { default as ImageSix } from "./hyperx-cloud-orbit-s.jpeg";
+export { default as ImageSeven } from "./jbl-quantum-800.jpg";
+export { default as ImageEight } from "./jbl-quantum-810.jpg";
+export { default as ImageNine } from "./razer-barracuda-x.jpg";
